@@ -1,0 +1,9 @@
+- [Главная](README.md)
+- **Руководство**
+  - [Установка](guide/installation.md)
+  - [Использование](guide/usage.md)
+- **Возможности**
+  - [Графика](features/graphics.md)
+  - [Жесты](features/gestures.md)
+- **Справочник**
+  - [API](api/reference.md)
