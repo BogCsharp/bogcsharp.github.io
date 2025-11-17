@@ -41,4 +41,4 @@ public boolean onTouch(View v, MotionEvent event) {
 - **Минимальное/максимальное расстояние**
 - **Скорость отклика**
 
-[ Графика](./graphics.md) | [ API справка](../api/reference.md)
+[ Графика](../features/graphics.md) | [ API справка](../api/reference.md)

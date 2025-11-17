@@ -29,8 +29,6 @@ public class DrawView extends View {
 }
 ```
 
-![Архитектура приложения](https://via.placeholder.com/500x300/795548/white?text=App+Architecture)
-
 ## Константы и настройки
 
 <u>Важные константы:</u>

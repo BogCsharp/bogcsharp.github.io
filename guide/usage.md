@@ -29,4 +29,4 @@ protected void onDraw(Canvas canvas) {
 
 <u>Важно:</u> Для полноценной работы рекомендуется устройство с поддержкой 10 одновременных касаний.
 
-[Установка](../installation.md) | [К содержанию](../README.md)
+[Установка](../guide/installation.md) | [К содержанию](../README.md)
