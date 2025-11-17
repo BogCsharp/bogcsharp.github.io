@@ -31,7 +31,7 @@ public boolean onTouch(View v, MotionEvent event) {
 
 ## Визуализация касаний
 
-[![Демонстрация жестов](https://via.placeholder.com/400x300/009688/white?text=Touch+Demo)](-)
+[![Демонстрация жестов](../screen2.jpg)](-)
 
 ## Настройки чувствительности
 

@@ -10,6 +10,7 @@
 
 ## Работа с графикой
 
+```java
 // Пример кода рисования фигур
 @Override
 protected void onDraw(Canvas canvas) {
@@ -19,13 +20,8 @@ protected void onDraw(Canvas canvas) {
     canvas.drawLines(points1, p);
     canvas.drawLines(points2, p);
 }
+```
 
-
-## Жесты масштабирования
-
-![Масштабирование](https://via.placeholder.com/400x200/FF9800/white?text=Жест+масштабирования)
-
-[Подробнее о жестах](../features/gestures.md)
 
 ## Обработка касаний
 
@@ -33,4 +29,4 @@ protected void onDraw(Canvas canvas) {
 
 <u>Важно:</u> Для полноценной работы рекомендуется устройство с поддержкой 10 одновременных касаний.
 
-[⬅️ Установка](./installation.md) | [⬆️ К содержанию](../README.md)
+[Установка](../installation.md) | [К содержанию](../README.md)
