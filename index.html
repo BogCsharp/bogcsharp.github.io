@@ -9,31 +9,15 @@
 </head>
 <body>
   <div id="app"></div>
-    <script>
-  const sidebarElement = document.createElement('div');
-    sidebarElement.style.display = 'none';
-    sidebarElement.id = 'sidebar-content';
-    sidebarElement.textContent = `- [Главная](README.md)
-
-- **Руководство**
-  - [Установка](guide/installation.md)
-  - [Использование](guide/usage.md)
-
-- **Возможности**
-  - [Графика](features/graphics.md)
-  - [Жесты](features/gestures.md)
-
-- **Справочник**
-  - [API](api/reference.md)`;
-    
-    document.body.appendChild(sidebarElement);
-
+   <script>
     window.$docsify = {
       name: 'LR61 Documentation',
-      repo: 'bogcsharp/lr61-docs',
-      loadSidebar: '#sidebar-content',  // ⭐ БЕРЕМ ИЗ HTML
-      subMaxLevel: 2,
-      auto2top: true
+      repo: '',
+      loadSidebar: 'sidebar.md',
+      subMaxLevel: 3,
+      auto2top: true,
+      coverpage: false,
+      themeColor: '#4CAF50'
     }
   </script>
   <script src="//cdn.jsdelivr.net/npm/docsify/lib/docsify.min.js"></script>
